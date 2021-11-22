@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Denetim-Anket-React", "Denemtim-Anket-React\Denetim-Anket-React.csproj", "{22C941A6-8770-48DB-B103-CB3EA85A6CBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{D21799A7-DFCF-48DE-9776-871D61F5032D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreLayer", "CoreLayer\CoreLayer.csproj", "{85CEEBC2-279D-46F5-8381-A3BAEF2E5062}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{263EF84D-F6D3-4C3B-A0D8-10132234606E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{0868ECDA-2924-4C61-AAF7-218B317961B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web.api", "Web.api\Web.api.csproj", "{08A3457E-3C3E-433A-96FC-B2E6AA89B246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C941A6-8770-48DB-B103-CB3EA85A6CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C941A6-8770-48DB-B103-CB3EA85A6CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C941A6-8770-48DB-B103-CB3EA85A6CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C941A6-8770-48DB-B103-CB3EA85A6CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D21799A7-DFCF-48DE-9776-871D61F5032D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21799A7-DFCF-48DE-9776-871D61F5032D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21799A7-DFCF-48DE-9776-871D61F5032D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21799A7-DFCF-48DE-9776-871D61F5032D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85CEEBC2-279D-46F5-8381-A3BAEF2E5062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85CEEBC2-279D-46F5-8381-A3BAEF2E5062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85CEEBC2-279D-46F5-8381-A3BAEF2E5062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85CEEBC2-279D-46F5-8381-A3BAEF2E5062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263EF84D-F6D3-4C3B-A0D8-10132234606E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263EF84D-F6D3-4C3B-A0D8-10132234606E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263EF84D-F6D3-4C3B-A0D8-10132234606E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263EF84D-F6D3-4C3B-A0D8-10132234606E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0868ECDA-2924-4C61-AAF7-218B317961B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0868ECDA-2924-4C61-AAF7-218B317961B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0868ECDA-2924-4C61-AAF7-218B317961B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0868ECDA-2924-4C61-AAF7-218B317961B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A3457E-3C3E-433A-96FC-B2E6AA89B246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A3457E-3C3E-433A-96FC-B2E6AA89B246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A3457E-3C3E-433A-96FC-B2E6AA89B246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A3457E-3C3E-433A-96FC-B2E6AA89B246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC5C7B25-34AF-40D5-812A-1EBE4CF08C88}
+	EndGlobalSection
+EndGlobal
